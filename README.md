@@ -1,7 +1,7 @@
 # Cookie-Inventory
-This JavaFX application is used to keep track of a cookie inventory. This project includes the 3 following 
-classes; cookies enum, cookieInventoryItem and cookieInventoryFile. It also includes UI elements, and error
-handlings and exceptions.
+This JavaFX application is used to keep track of a cookie inventory. This project includes the 2 classes, 
+1 enumeration, UI elements, and error handlings and exceptions.
+
 
 The Cookies Enum 
 This enumeration contains constants for each cookie flavour and is written in the cookies.jar file. Every 
